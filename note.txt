@@ -1,0 +1,5 @@
+API KEY
+33940194-91d7ebeb199f6d06d9e8aea3e
+
+Example
+https://pixabay.com/api/?key=33940194-91d7ebeb199f6d06d9e8aea3e&q=yellow+flowers&image_type=photo&pretty=true
